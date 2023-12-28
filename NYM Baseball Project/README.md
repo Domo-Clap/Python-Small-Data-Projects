@@ -1,1 +1,1 @@
-
+This is another mini project I decided to work on as a bit of practice. I was able to focus on more than one dataframe here and I delved more into the different kinds of graphs there are available through matplotlib and seaborn. There was quite a lot I gained from working on this little project, including how to create subplots and how to work with comparisons in datasets a bit better. Overall, even though it was not a very complex project, I felt it helped me work on my skills as a data analyst a bit.
