@@ -10,3 +10,9 @@ I first learned about data analytics and programming back in my Junior year of c
 This entire repository is just a small collection of some data analytic projects I have worked on using Python and Jupyter Notebook. With these projects, I was able to practice, and learn more about Pandas, Seaborn, and MPL. (Numpy is cool and all, but it can get boring and feels clunky). Most of the datasets involved with these projects I was able to gather from online sources. However, the parts where I analyzed the data was my own doing. I tried my best to experiment with both Seaborn and MPL for graphing the data, but I can definitely learn more about both libraries. Overall, I feel like I learned a lot from these projects. I was able to get hands on experience working with data in Python and using it to find out new things from mass amounts of data.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Some of the projects that are labeled practice are meant to be strictly for practice. They don't mean much in terms of what skills I possess with Python and data analytics. The others folders labeled project are work I have done on my own in order to improve my skills.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+In the future, I plan on using the skills I have learned from here, to make an python app that lets users import csv or xlsx files, and perform basic analytics on said files.
