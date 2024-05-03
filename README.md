@@ -1,2 +1,12 @@
 # Python-Data-Analysis-Projects
 Simple projects related to data analytics using Numpy, pandas, seaborn, and MPL.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+I first learned about data analytics and programming back in my Junior year of college. I was a few months into my CS degree at SNHU, and I had to take a course on data analytics. At first, I felt it was a boring topic. But over time, I grew to really like the process of collecting data, transforming it, preparing it, and then gaining insights from it by analyzing said data. It is something I would definitely enjoy pursuing as a career, as I find it very enjoyable to write code that shows me more about something I am interested in.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+This entire repository is just a small collection of some data analytic projects I have worked on using Python and Jupyter Notebook. With these projects, I was able to practice, and learn more about Pandas, Seaborn, and MPL. (Numpy is cool and all, but it can get boring and feels clunky). Most of the datasets involved with these projects I was able to gather from online sources. However, the parts where I analyzed the data was my own doing. I tried my best to experiment with both Seaborn and MPL for graphing the data, but I can definitely learn more about both libraries. Overall, I feel like I learned a lot from these projects. I was able to get hands on experience working with data in Python and using it to find out new things from mass amounts of data.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
