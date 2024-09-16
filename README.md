@@ -16,3 +16,7 @@ Some of the projects that are labeled practice are meant to be strictly for prac
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 In the future, I plan on using the skills I have learned from here, to make an python app that lets users import csv or xlsx files, and perform basic analytics on said files.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Just added in a few new projects that focus on web scraping. Basically, all I did was use Selenium to access websites and scrape the data I wanted. From here, I could either push them to a db, or even use them directly in pandas. I may go back and do some analytics on the scraped data, but for now, I will leave them more as creating data collection systems. The Pokemon Web scraper also incorporates pandas and pyodbc to transform and move data to a local database.
