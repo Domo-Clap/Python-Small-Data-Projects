@@ -103,8 +103,8 @@ class DataMover:
 
         tableName = "NBAStats_2023_2024"
 
-        SERVER = "DESKTOP-IKV9RTD\\DOMO_TEST_SERVER"
-        DATABASE = "NBA_Stats"
+        SERVER = "SERVERNAME"
+        DATABASE = "DBNAME"
         connectionString = f'DRIVER={{ODBC Driver 17 for SQL Server}};SERVER={SERVER};DATABASE={DATABASE};Trusted_Connection=yes'
 
         conn = pyodbc.connect(connectionString)
@@ -160,8 +160,8 @@ class DataMover:
     def insertNBAData(self, statsDF):
         tableName = "NBAStats_2023_2024"
 
-        SERVER = "DESKTOP-IKV9RTD\\DOMO_TEST_SERVER"
-        DATABASE = "NBA_Stats"
+        SERVER = "SERVERNAME"
+        DATABASE = "DBNAME"
         connectionString = f'DRIVER={{ODBC Driver 17 for SQL Server}};SERVER={SERVER};DATABASE={DATABASE};Trusted_Connection=yes'
 
         conn = pyodbc.connect(connectionString)
